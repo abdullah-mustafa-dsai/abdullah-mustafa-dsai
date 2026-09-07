@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Abdullah 👋
 
-<!--
-**abdullah-mustafa-dsai/abdullah-mustafa-dsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Sc. Data Science and Artificial Intelligence student at Saarland University in Germany.
 
-Here are some ideas to get you started:
+I'm interested in using data science, machine learning, and software development to solve practical problems and build useful technical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Interests
+
+- Machine Learning
+- Data Analysis
+- Artificial Intelligence
+- Software Development
+- Algorithms and Data Structures
+
+## 🛠 Skills
+
+- Python
+- Data Analysis
+- Machine Learning
+- Statistics
+- Algorithms and Data Structures
+- Software Development
+
+## 📚 Currently
+
+- 🎓 Studying Data Science and Artificial Intelligence at Saarland University
+- 💼 Looking for Werkstudent and HiWi opportunities in Saarland
+- 🚀 Building practical projects in Data Science, Machine Learning, and Software Development
+
+## 📂 Projects
+
+Selected projects will be added here as I build and document them.
+
+## 🔗 Connect with me
+
+- LinkedIn: [Abdullah Mustafa](https://www.linkedin.com/in/abdullah-mustafa-101a681b4/)
