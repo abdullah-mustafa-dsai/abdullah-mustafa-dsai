@@ -12,15 +12,43 @@ I'm interested in using data science, machine learning, and software development
 - Software Development
 - Algorithms and Data Structures
 
-## 🛠 Skills
+## 🛠 Technical Skills
 
+**Programming**
 - Python
-- Data Analysis
-- Machine Learning
-- Statistics
-- Algorithms and Data Structures
-- Software Development
 
+**Machine Learning & AI**
+- PyTorch
+- scikit-learn
+- Hugging Face Transformers
+- Machine Learning
+- Deep Learning
+
+**Data Science & NLP**
+- pandas
+- NumPy
+- NLTK
+- Natural Language Processing
+- Data Analysis
+- Statistics
+
+**Computer Vision & Speech**
+- Computer Vision
+- Vision Transformers
+- Convolutional Neural Networks
+- torchaudio
+- Audio Classification
+- Model Robustness & Distribution Shift
+
+**Software Development**
+- Django
+- Django REST Framework
+- REST APIs
+- Git & GitHub
+
+**Computer Science Foundations**
+- Algorithms
+- Data Structures
 ## 📚 Currently
 
 - 🎓 Studying Data Science and Artificial Intelligence at Saarland University
