@@ -29,6 +29,20 @@ I'm interested in using data science, machine learning, and software development
 
 ## 📂 Projects
 
+### [Spoken Language Identification for 22 Indian Languages](https://github.com/abdullah-mustafa-dsai/spoken-language-identification-india)
+
+Academic speech-classification project for identifying spoken languages from audio recordings.
+
+- Fine-tuned W2V-BERT for 22-class spoken language identification
+- Built the training pipeline with PyTorch, torchaudio, and Hugging Face Transformers
+- Applied speed perturbation, pitch shifting, and Gaussian-noise augmentation
+- Analysed model behaviour using confusion matrices and t-SNE visualisations
+- Best reported validation accuracy: 36.45%
+
+**Topics:** Deep Learning · Audio Classification · W2V-BERT · PyTorch · Hugging Face · Speech Processing
+
+---
+
 ### [Analysis of Open-Ended Survey Responses](https://github.com/abdullah-mustafa-dsai/open-ended-survey-analysis)
 
 German-language NLP project analysing open-ended political survey responses.
