@@ -29,6 +29,20 @@ I'm interested in using data science, machine learning, and software development
 
 ## 📂 Projects
 
+### [CNN vs. ViT Robustness Under Distribution Shift](https://github.com/abdullah-mustafa-dsai/cnn-vit-robustness-study)
+
+Academic computer vision research project comparing ResNet-50 and ViT-S/16 under distribution shift.
+
+- Trained and evaluated ResNet-50 and ViT-S/16 under controlled conditions
+- Evaluated robustness using ImageNet-C, ImageNet-A, and ImageNet-R
+- Analysed corruption families including noise, blur, weather, and digital corruptions
+- Studied the effects of AugMix and training duration
+- Compared absolute and relative robustness metrics
+
+**Topics:** Computer Vision · Vision Transformers · ResNet · Robustness · Distribution Shift · Deep Learning
+
+---
+
 ### [Spoken Language Identification for 22 Indian Languages](https://github.com/abdullah-mustafa-dsai/spoken-language-identification-india)
 
 Academic speech-classification project for identifying spoken languages from audio recordings.
@@ -54,6 +68,19 @@ German-language NLP project analysing open-ended political survey responses.
 - Created visualisations for sentiment results, term frequencies, and model comparison
 
 **Topics:** NLP · BERT · Sentiment Analysis · Python · Machine Learning · Data Analysis
-## 🔗 Connect with me
+
+---
+
+### [Django Fame-Based Social Network](https://github.com/abdullah-mustafa-dsai/django-fame-social-network)
+
+Portfolio documentation for an academic Django software-engineering project.
+
+- Extended an existing Django social-network application
+- Worked on reputation and profile-update functionality
+- Implemented expertise-community and timeline features
+- Worked with user-similarity logic and relational data
+- Used Django REST Framework and backend/API functionality
+
+**Topics:** Python · Django · REST APIs · Backend Development · Databases · Software Engineering
 
 - LinkedIn: [Abdullah Mustafa](https://www.linkedin.com/in/abdullah-mustafa-101a681b4/)
