@@ -111,4 +111,4 @@ Portfolio documentation for an academic Django software-engineering project.
 
 **Topics:** Python · Django · REST APIs · Backend Development · Databases · Software Engineering
 
-- LinkedIn: [Abdullah Mustafa](https://www.linkedin.com/in/abdullah-mustafa-101a681b4/)
+- LinkedIn: [Abdullah Mustafa](https://www.linkedin.com/in/abdullah-mustafa-dsai/)
